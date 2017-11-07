@@ -1,0 +1,45 @@
+#s-916be54d-d6ba-4130-8a30-a466f0fd68f5 #s-Image_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-916be54d-d6ba-4130-8a30-a466f0fd68f5 #s-Image_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-916be54d-d6ba-4130-8a30-a466f0fd68f5 #s-Text_1 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-916be54d-d6ba-4130-8a30-a466f0fd68f5 #s-Text_2 {
+  -ms-transform: rotate(0.0deg);
+}
+#s-916be54d-d6ba-4130-8a30-a466f0fd68f5 #s-Button_1 {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #000000;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #000000;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #000000;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #000000;
+  border-radius: 4px 4px 4px 4px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  width: 329px;
+  height: 71px;
+  -ms-transform: rotate(0.0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-916be54d-d6ba-4130-8a30-a466f0fd68f5 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
